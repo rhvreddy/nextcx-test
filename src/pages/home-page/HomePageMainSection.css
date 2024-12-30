@@ -1,0 +1,20 @@
+.hero-main-section {
+    background-image: url('https://d3dqyamsdzq0rr.cloudfront.net/sia/images/Sia_BG2.png');
+    background-size: cover;
+    background-position: center -2px;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*padding: 2rem 4rem 4rem 4rem;*/
+    /*font-family: 'Roboto', sans-serif;*/
+}
+
+/*@media screen and (max-width: 768px) {*/
+/*    .hero-main-section {*/
+/*        flex-direction: column;*/
+/*        justify-content: center;*/
+/*        text-align: center;*/
+/*        padding: 2rem;*/
+/*    }*/
+/*}*/

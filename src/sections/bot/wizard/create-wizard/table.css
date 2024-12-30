@@ -1,0 +1,4 @@
+.MuiOutlinedInput-input::placeholder{
+    color:black;
+    font-weight:700;
+}

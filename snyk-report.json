@@ -1,0 +1,5 @@
+{
+  "ok": false,
+  "error": "Dependency @antv/x6@^2.18.1 was not found in yarn.lock. Your package.json and yarn.lock are probably out of sync. Please run \"yarn install\" and try again.",
+  "path": "/home/harsha/github/nextcx-ai-react-app"
+}

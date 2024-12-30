@@ -1,0 +1,20 @@
+.color {
+    width: auto;
+    height: 21px;
+    border-radius: 2px;
+}
+.popover {
+    position: absolute;
+    z-index: 2;
+    top: 3rem;
+}
+.cover {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.avatarImg img{
+  object-fit: scale-down !important;
+}
