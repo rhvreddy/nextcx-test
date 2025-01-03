@@ -76,7 +76,7 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dnd-scrolling": "^1.2.4",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-draft-wysiwyg": "^1.15.0",
     "react-draggable": "^4.4.5",
     "react-dropzone": "^14.2.2",
